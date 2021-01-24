@@ -1,4 +1,5 @@
 # v-vuexfire-bug
+This repo is meant to reproduce a bug that was originally opened against the Vuexfire repo regarding a promise resolving prematurely on collections(https://github.com/vuejs/vuefire/issues/426).
 
 ## Project setup
 ```
